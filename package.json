@@ -1,0 +1,11 @@
+{
+  "name": "demo-final",
+  "version": "1.0.0",
+  "description": "c'est le demo final pour le projet teranga ustensiles",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tapha Gaye",
+  "license": "ISC"
+}
